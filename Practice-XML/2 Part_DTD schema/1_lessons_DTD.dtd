@@ -1,0 +1,13 @@
+<!DOCTYPE TimeTable [
+		<!ELEMENT lessons (lesson+)>
+        <!ELEMENT lesson  (lessonName,lessonTeacher,classTine,course)>
+        <!ELEMENT lessonTeacher (Name,LastName,PatronymicName)>
+        <!ELEMENT classTine(beginning,ending)>
+        <!ELEMENT course(beginning,ending)>
+		<!ELEMENT lessonName    (#PCDATA)>
+		<!ELEMENT Name (#PCDATA)>
+		<!ELEMENT LastName  (#PCDATA)>
+        <!ELEMENT PatronymicName  (#PCDATA)>
+        <!ELEMENT beginning  (#PCDATA)>
+        <!ELEMENT ending  (#PCDATA)>
+]>

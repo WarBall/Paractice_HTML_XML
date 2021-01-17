@@ -1,0 +1,40 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE TimeTable SYSTEM "lessons_DTD.dtd">
+
+<TimeTable xmlns:timetable="http://www.itmo.ru/xml/lessons">
+    <lessons>
+        <lesson>
+            <lessonName>Химия</lessonName>
+            <lessonTeacher>
+                <Name>Илья</Name>
+                <LastName>Вискин</LastName>
+                <PatronymicName>Иванов</PatronymicName>
+            </lessonTeacher>
+            <classTine>
+                <beginning>09:00</beginning>
+                <ending>10:30</ending>
+            </classTine>
+            <course>
+                <beginning>04.06.2019</beginning>
+                <ending>06.07.2019</ending>
+            </course>
+        </lesson>
+
+        <lesson>
+            <lessonName>Физика</lessonName>
+            <lessonTeacher>
+                <Name>Юля</Name>
+                <LastName>Портвеевна</LastName>
+                <PatronymicName>Даниловна</PatronymicName>
+            </lessonTeacher>
+            <classTine>
+                <beginning>10:45</beginning>
+                <ending>11:45</ending>
+            </classTine>
+            <course>
+                <beginning>04.06.2019</beginning>
+                <ending>06.07.2019</ending>
+            </course>
+        </lesson>
+    </lessons>
+</TimeTable>
