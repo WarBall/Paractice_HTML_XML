@@ -46,3 +46,9 @@ blockquote{
 .interesting{
 	font-style:italic;
 }
+#info{
+	background-color: #FAF0E6;
+	padding: 0;
+	margin: 0 auto;
+	width: 800px;	
+}
