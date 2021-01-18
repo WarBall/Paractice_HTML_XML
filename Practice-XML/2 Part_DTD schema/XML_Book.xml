@@ -9,13 +9,13 @@
                     <author>&linux;</author>
                     <author>&internet;</author>
                 </authors>
-                <title>Оглавление &linux;</title>
+                <title>Оглавление</title>
                 <publishing>Издательство</publishing>
                 <annotation>Описание</annotation>
             </book>
         </book_catalog>
         <author_catalog>
-            <author_book idref="a"></author_book>
+            <author_book idref="a">&linux;&internet;</author_book>
         </author_catalog>
     </library>
 </pricelist>
