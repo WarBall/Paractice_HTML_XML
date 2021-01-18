@@ -4,17 +4,18 @@
 <pricelist>
     <library>
         <book_catalog>
-            <book id="a" isbn="" year="год издания" issue="translation">
+            <book id="a" isbn="NULL" year="год издания" issue="translation">
                 <authors>
-                    <author>Автор</author>
+                    <author>&linux;</author>
+                    <author>&internet;</author>
                 </authors>
-                <title>Оглавление</title>
+                <title>Оглавление &linux;</title>
                 <publishing>Издательство</publishing>
                 <annotation>Описание</annotation>
             </book>
         </book_catalog>
         <author_catalog>
-            <author_book idref="a">&internet;&linux;</author_book>
+            <author_book idref="a"></author_book>
         </author_catalog>
     </library>
 </pricelist>

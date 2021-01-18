@@ -10,14 +10,8 @@
                 <LastName>Вискин</LastName>
                 <PatronymicName>Иванов</PatronymicName>
             </lessonTeacher>
-            <classTine>
-                <beginning>09:00</beginning>
-                <ending>10:30</ending>
-            </classTine>
-            <course>
-                <beginning>04.06.2019</beginning>
-                <ending>06.07.2019</ending>
-            </course>
+            <classTine>09:00-10:30</classTine>
+            <course>04.06.2019-06.07.2019</course>
         </lesson>
 
         <lesson>
@@ -27,14 +21,8 @@
                 <LastName>Портвеевна</LastName>
                 <PatronymicName>Даниловна</PatronymicName>
             </lessonTeacher>
-            <classTine>
-                <beginning>10:45</beginning>
-                <ending>11:45</ending>
-            </classTine>
-            <course>
-                <beginning>04.06.2019</beginning>
-                <ending>06.07.2019</ending>
-            </course>
+            <classTine>10:45-11:45</classTine>
+            <course>04.06.2019-06.07.2019</course>
         </lesson>
     </lessons>
 </TimeTable>
